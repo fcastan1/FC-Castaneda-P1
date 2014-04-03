@@ -1,5 +1,17 @@
+/*
+COLOR SAMPLES
+Blue : #296bff
+
+
+
+
+
+
+
+*/
+
 h1{
-    color:purple;
+    color:#296bff;
     font-family; Havetica;   
 }
 
@@ -16,9 +28,18 @@ hi{
 }
     
 .navbar-inverse {
-  background-color: blue;
-  border-color:  blue;
+  background-color:#296bff;
+  border-color:black;
 }    
     
     .events{
         background-color:
+}
+
+.footer
+{
+    background-color:#296bff;
+    border-color:black;
+    height:70px;
+    
+}
