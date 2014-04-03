@@ -13,9 +13,12 @@ hi{
     height: px;
 }
 .mainnav{
+}
     
-    
-    
+.navbar-inverse {
+  background-color: blue;
+  border-color:  blue;
+}    
     
     .events{
         background-color:
