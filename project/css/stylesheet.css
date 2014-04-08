@@ -1,18 +1,22 @@
 /*
 COLOR SAMPLES
 Blue : #296bff
-
-
-
-
+http://www.colorhexa.com/296bff
+new color ideas 
+http://www.colorhexa.com/001950
 
 
 
 */
 
+body
+{
+
+}
+
 h1{
-    color:#296bff;
-    font-family; Havetica;   
+    color:#001950;
+    font-family; Havetica;
 }
 
 hi{
@@ -27,8 +31,20 @@ hi{
 .mainnav{
 }
     
+.jumbotron
+{
+    background-color:#001950;
+    color:white;
+  
+
+  
+ 
+                            
+
+}
+
 .navbar-inverse {
-  background-color:#296bff;
+  background-color:#001950;
   border-color:black;
 }    
     
@@ -38,8 +54,33 @@ hi{
 
 .footer
 {
-    background-color:#296bff;
+    background-color:#001950;
+    
     border-color:black;
-    height:70px;
+    width: 100%;
+    height:150px;
+    font-size:10px;
+    color:white;
+    text-align:center;
+    padding:10px;
+    border-color:black;
+    
     
 }
+
+.active 
+{
+    color:#001950;
+}
+
+
+
+
+/*Notes from the midterm*/
+/*}
+.big-box {background-color:#8FDAD6;
+    width: 100%;
+    font-size:40px;
+    color:#31757D;
+    text-align:center;
+}*/
